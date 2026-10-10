@@ -317,7 +317,7 @@ timeline
 
 <div align="center">
 
-**Ora** · crafted by [Zenix Developers](https://github.com/Zenix-Developers)
+**Ora** · crafted by [Zenix Developers](https://github.com/Zenix-Developers) · [zenix.sg](https://zenix.sg)
 
 *The source code is private. Interested in a closer look? Get in touch.*
 
