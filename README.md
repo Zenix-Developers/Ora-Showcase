@@ -17,7 +17,9 @@
 
 ---
 
-> **A showcase repository.** It contains no source code, only a tour of what Ora is and the experience it creates. See the [release highlights](VERSIONS.md) for how it has grown.
+> **A showcase repository.** It contains no source code, only a tour of what Ora is and the experience it creates.
+>
+> 🔬 **Ora is a free research project**, shared with a small circle of early testers while it grows. Follow along at [ora.zenix.sg](https://ora.zenix.sg). See the [release highlights](VERSIONS.md) for how it has grown.
 
 ## The idea
 
